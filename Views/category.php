@@ -17,7 +17,7 @@
 
 require_once './header.php';
 ?>
-<!--Contenido-->
+<!--Contenido commit desde Netbeans-->
       <!-- Content Wrapper. Contains page content -->
       <div class="content-wrapper">
         
