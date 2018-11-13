@@ -1,0 +1,1 @@
+SELECT article.id_article, article.idcategory, article.code, article.name, article.stock, article.description, article.image, article.status, category.name from store.article, store.category where article.idcategory = category.idcategory
